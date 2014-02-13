@@ -1,4 +1,4 @@
 AndroidJsBridge
-===============
+=================
 
-An Android Javascript Bridge.
+Andriod and Javascript bridge.
